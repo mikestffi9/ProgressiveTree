@@ -1,2 +1,0 @@
-# ProgressiveTree
-My awesome repository
